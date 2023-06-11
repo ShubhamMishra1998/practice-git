@@ -13,6 +13,7 @@ public class Main {
 
     public static void function3() {
         System.out.println("function3");
+        System.out.println("first change");
     }
     public static void function2() {
         System.out.println("function1");
